@@ -1,4 +1,4 @@
-use lib "c:\\program files (x86)\\nimsoft\\perllib\\";
+use lib "c:\\program files\\nimsoft\\perllib\\";
 
 #!/opt/nimbus/bin/perl
 #################################################################
