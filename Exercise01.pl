@@ -1,4 +1,4 @@
-use lib "c:\\program files\\nimsoft\\perllib\\";
+use lib "c:\\program files (x86)\\nimsoft\\perllib\\";
 
 #!/opt/nimbus/bin/perl
 #################################################################
@@ -11,7 +11,7 @@ use strict;
 use Getopt::Std;
 use Nimbus::API;
 
-my $prgname       = "Exercise01.pl";
+my $prgname       = "Exercise01";
 my $version       = "1.00";
 my %options;
 
